@@ -1,2 +1,2 @@
 #!/bin/bash
-$ wc -l file
+chmod u+x file
